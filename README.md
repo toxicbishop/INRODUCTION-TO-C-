@@ -16,7 +16,7 @@ Welcome to the **Introduction to C** repository! This project contains a collect
 ## 📝 Program List & Descriptions
 
 | SL | Program Name | Description |
-|:---:|:---|:---|
+| :---: | :--- | :--- |
 | 01 | **Simple Calculator** | Evaluates basic arithmetic expressions using a `switch` statement. |
 | 02 | **Quadratic Equations** | Finds the roots of a quadratic equation and handles real/imaginary cases. |
 | 03 | **Electricity Bill** | Calculates monthly charges including surcharges and minimum fees. |
